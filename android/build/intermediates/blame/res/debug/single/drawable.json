@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable/common_signin_btn_text_dark.xml"
+    }
+]

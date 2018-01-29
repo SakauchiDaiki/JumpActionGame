@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    }
+]
