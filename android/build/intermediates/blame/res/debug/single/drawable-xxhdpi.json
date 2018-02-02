@@ -60,12 +60,12 @@
         "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png",
-        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
-    },
-    {
         "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png",
         "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Users/sakauchidaiki/.android/build-cache/691ccc90f983a7a699c772a57ddb29d6551b452a/output/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
     },
     {
         "merged": "/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/res/merged/debug/drawable-xxhdpi/powered_by_google_light.png",

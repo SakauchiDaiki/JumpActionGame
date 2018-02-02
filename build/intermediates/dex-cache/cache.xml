@@ -52,7 +52,7 @@
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="37e6c6729c21a9c1313ab2178fd20905fc53403e">
+        sha1="01a19dabd34588c25056aa031a9adffc502ca274">
         <dex dex="/Users/sakauchidaiki/Desktop/git_test/JumpActionGame/android/build/intermediates/pre-dexed/debug/core-1.0_bdd8e469f748fb827eb4e4cdbfd9101997746bed.jar" />
     </item>
     <item

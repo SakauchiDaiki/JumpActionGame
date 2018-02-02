@@ -7,7 +7,7 @@ package jp.techacademy.daiki.sakauchi.jumpactiongame;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 
-public class Star extends Sprite {
+public class Star extends GameObject {
     // 横幅、高さ
     public static final float STAR_WIDTH = 0.8f;
     public static final float STAR_HEIGHT = 0.8f;

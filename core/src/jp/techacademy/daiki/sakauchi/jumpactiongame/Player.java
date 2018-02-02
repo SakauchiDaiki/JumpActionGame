@@ -4,8 +4,8 @@ package jp.techacademy.daiki.sakauchi.jumpactiongame;
  * Created by sakauchidaiki on 2018/01/25.
  */
 
-
 import com.badlogic.gdx.graphics.Texture;
+
 
 public class Player extends GameObject {
     // 横幅、高さ
